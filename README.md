@@ -1,4 +1,5 @@
 # Mini-project-BI
 ## Objectif
-Ce projet BI vise à mettre bout-a-bout les différentes notions vues dans cet élément : ETL, Dataware 
-House, OLAP, et Reporting (Chaine décisionnelle).
+Application des différentes étapes de la chaîne décisionnelle (ETL, DataWareHouse, OLAP et Reporting) sur un jeu de données à propos des cours en ligne sur la plateforme Udemy.
+
+Dataset: kaggle.com/datasets/pranabpandit/udemy-courses
