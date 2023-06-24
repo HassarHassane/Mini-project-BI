@@ -1,6 +1,6 @@
 # Mini-project-BI
-## Objectif
-Application des différentes étapes de la chaîne décisionnelle (ETL, DataWareHouse, OLAP et Reporting) sur un jeu de données à propos des cours en ligne sur la plateforme Udemy.
+## Objective
+Application of the different steps in the BI chain (ETL, DataWareHouse, OLAP and Reporting) to a dataset about online courses on the Udemy platform.
 
 Skills: Talend, Oracle, Pentaho Mondrian, Birt
 
